@@ -9,8 +9,10 @@ author: Will Usher
 description: > # "Write an awesome description for your new site here.
   ECEMF is a Horizon 2020 funded project.
   The aim of the project is to establish a European focal-point – the forum - for energy and climate researchers and policy makers to tackle the key challenge of our time – how to achieve climate neutrality.
-  The ECEMF consortium is led by KTH Royal Institute of Technology, and consists of 15 partners in total from 9 countries.
-  Partners include CMCC, IIASA, PIK, TU Wien, e-think, TNO, Fraunhofer ISI, E3M, PBL, Artelys, Comillas, TU Delft, University of Melbourne and IOS-PIB.
+
+  <p>The ECEMF consortium is led by KTH Royal Institute of Technology, and consists of 15 partners in total from 9 countries.</p>
+
+  <p>Partners include CMCC, IIASA, PIK, TU Wien, e-think, TNO, Fraunhofer ISI, E3M, PBL, Artelys, Comillas, TU Delft, University of Melbourne and IOS-PIB.</p>
 
 copyright: 'Copyright &copy; 2021 Will Usher. All Rights Reserved.'
 credits: This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101022622
